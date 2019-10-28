@@ -4,7 +4,6 @@ import Link from 'gatsby-link';
 
 import Card from '../components/Card';
 import Sidebar from '../components/Sidebar';
-import ShareBox from '../components/ShareBox';
 
 import './index.scss';
 
@@ -31,6 +30,7 @@ const NavLink = ({ test, url, text }) => {
   );
 };
 
+// eslint-disable-next-line no-unused-vars
 const Page = ({ pageContext, location }) => {
   const {
     group, index, first, last, pathPrefix,
@@ -50,6 +50,7 @@ const Page = ({ pageContext, location }) => {
         <Sidebar />
         <div className="col-xl-6 col-lg-7 col-md-12 col-xs-12 order-2">
           {group.map(({ node }) => (
+            // eslint-disable-next-line max-len
             <Card {...node.frontmatter} url={node.frontmatter.slug ? node.frontmatter.slug : node.fields.slug} key={node.fields.slug} />
           ))}
 
@@ -70,7 +71,6 @@ const Page = ({ pageContext, location }) => {
         </div>
         <div className="col-xl-2 col-lg-1 order-3" />
       </div>
-      <ShareBox url={location.href} hasCommentBox={false} />
     </React.Fragment>
   );
 };

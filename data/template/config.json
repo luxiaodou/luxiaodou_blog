@@ -15,9 +15,9 @@
     "title": "過去三十日數據",
     "description": "過去三十日數據"
   },
-  "title": "Luxiaodou 的技術博客",
+  "title": " Luxiaodou的技术博客 ",
   "gitalk": {
-    "repo": "luxiaodou.github.io",
+    "repo": "luxiaodou_blog",
     "admin": ["Luxiaodou"],
     "owner": "Luxiaodou",
     "clientID": "26ff58e6c08da2e8e329",
