@@ -1,27 +1,27 @@
 {
-  "url": "https://calpa.me",
+  "url": "https://www.luxiaodou.me",
   "meta": {
-    "favicon": "https://i.imgur.com/PO9Y4fT.jpg",
-    "keyword": "calpa, blog, JavaScript",
-    "description": "Calpa 的技術博客，開發日常，以及遇到的坑",
+    "favicon": "https://i.imgur.com/NkaLaci.jpg",
+    "keyword": "luxiaodou, blog",
+    "description": "卢小豆的博客，学习笔记以及日常",
     "theme_color": "#384f7c",
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
-  "name": "calpa",
+  "name": "Luxiaodou",
   "about": "/2018/05/01/about-calpa-liu/",
-  "email": "calpaliu@gmail.com",
+  "email": "lusongchn@gmail.com",
   "stats": {
     "image": "https://i.imgur.com/VjBWiSt.png",
     "title": "過去三十日數據",
     "description": "過去三十日數據"
   },
-  "title": "Calpa 的技術博客",
+  "title": "Luxiaodou 的技術博客",
   "gitalk": {
-    "repo": "calpa.github.io",
-    "admin": ["calpa"],
-    "owner": "calpa",
-    "clientID": "18255f031b5e11edd98a",
-    "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
+    "repo": "luxiaodou.github.io",
+    "admin": ["Luxiaodou"],
+    "owner": "Luxiaodou",
+    "clientID": "26ff58e6c08da2e8e329",
+    "clientSecret": "93781c0b074d74dd179b344c84c86ff4417b8fa2",
     "pagerDirection": "first",
     "distractionFreeMode": true
   },
@@ -32,8 +32,8 @@
       "title": "Calpa's Blog"
     }
   ],
-  "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
-  "wordings": ["GatsbyJS, ReactJS", "全週期開發者"],
+  "iconUrl": "https://i.imgur.com/NkaLaci.jpg",
+  "wordings": ["快乐摸鱼每一天(=´ω`=)"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
@@ -43,10 +43,6 @@
     {
       "href": "/tags/",
       "title": "Tags"
-    },
-    {
-      "href": "/2018/05/01/about-calpa-liu/",
-      "title": "關於作者"
     }
   ],
   "redirectors": [
@@ -62,8 +58,8 @@
       "target": "/stats/"
     }
   ],
-  "zhihuUsername": "piao-xue-wu-ying",
-  "githubUsername": "calpa",
+  "zhihuUsername": "lu-song-80",
+  "githubUsername": "luxiaodou",
   "maxPostsInPage": 10,
   "facebook": "calpablog"
 }
