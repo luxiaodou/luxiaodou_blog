@@ -11,6 +11,8 @@ import './index.scss';
 const imageStyle = (headerImage, color) => ({
   backgroundColor: `#${color}`,
   backgroundImage: ` url(${parseImgur(headerImage, 'large')})`,
+  backgroundRepeat: 'no-repeat',
+  backgroundSize: 'cover',
 });
 
 const CardHeader = ({ url, image, backgroundColor }) => (
