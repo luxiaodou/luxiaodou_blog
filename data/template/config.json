@@ -8,7 +8,7 @@
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
   "name": "Luxiaodou",
-  "about": "/2018/05/01/about-calpa-liu/",
+  "about": "/2019-10-28-about/",
   "email": "lusongchn@gmail.com",
   "stats": {
     "image": "https://i.imgur.com/VjBWiSt.png",
@@ -43,11 +43,15 @@
     {
       "href": "/tags/",
       "title": "Tags"
+    },
+    {
+      "href": "/2019-10-28-about/",
+      "title": "关于作者"
     }
   ],
   "redirectors": [
     {
-      "toPath": "/2018/05/01/about-calpa-liu/",
+      "toPath": "/2019-10-28-about/",
       "fromPath": "/about/"
     }
   ],
